@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amirbek</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a1r-coder&label=Profile%20views&color=0e75b6&style=flat" alt="a1r-coder" /> </p>
 
-- 🔭 I’m currently working on **flutter**
+- 🔭 I’m currently working on **Flutter**
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.instagram.com/amirchik.dm/](https://www.instagram.com/amirchik.dm/)
 
-- ⚡ Fun fact **I'm very kind mana**
+- ⚡ Fun fact **I'm very kind man**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
