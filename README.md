@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Dart**
 
-- 📄 Know about my experiences [https://www.instagram.com/amirchik.dm/](https://www.instagram.com/amirchik.dm/)
+- 📄 Know about my experiences [https://www.instagram.com/amirchik.dm/](https://www.instagram.com/amirbek_nematilloyev/)
 
 - ⚡ Fun fact **I'm very kind man**
 
