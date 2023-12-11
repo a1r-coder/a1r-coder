@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://www.instagram.com/amirchik.dm/](https://www.instagram.com/amirbek_nematilloyev/)
 
-- ⚡ Fun fact **I'm very kind man**
+- ⚡ Fun fact **Avocados are a fruit, not a vegetable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
