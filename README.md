@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://orif.ai"><img src="https://img.shields.io/badge/Building-Orif-0e75b6?style=for-the-badge&logo=rocket&logoColor=white" alt="Building Orif" /></a>
-  <a href="https://amirbekportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-111111?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.instagram.com/amirbek_nematilloyev/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=a1r-coder&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 </p>
@@ -18,7 +17,7 @@ I'm a founder and full-stack builder from **Bukhara, Uzbekistan**. I started out
 - 🚀 **CEO @ [Orif](https://orif.ai)** — building something I'd want to use myself
 - 🛠️ Comfortable across **mobile (Flutter)**, **games (Unity)**, and **the web**
 - 🧪 Currently obsessed with **AI tooling** and shipping fast
-- 🌍 Open to interesting collaborations — drop me a line via my [portfolio](https://amirbekportfolio.netlify.app/)
+- 🌍 Open to interesting collaborations — say hi over on [Instagram](https://www.instagram.com/amirbek_nematilloyev/)
 
 ---
 
@@ -57,7 +56,6 @@ I'm a founder and full-stack builder from **Bukhara, Uzbekistan**. I started out
 
 <p>
   <a href="https://orif.ai">🌐 orif.ai</a>&nbsp;·&nbsp;
-  <a href="https://amirbekportfolio.netlify.app/">💼 Portfolio</a>&nbsp;·&nbsp;
   <a href="https://www.instagram.com/amirbek_nematilloyev/">📷 Instagram</a>
 </p>
 
